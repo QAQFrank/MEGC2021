@@ -43,3 +43,7 @@ This part is based on https://github.com/Tencent/Real-SR
 - Usage - ```./realsr-ncnn-vulkan -i in.jpg -o out.png```
 - ```-x``` - use ensemble 
 - ```-g 0``` - select gpu id.
+
+## Some results
+
+![image](pics/exp%20female%20casme%20neg.jpg)
