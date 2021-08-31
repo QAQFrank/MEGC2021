@@ -1,6 +1,7 @@
 ###
 
 This is the code for MEGC2021 Generation Task.
+
 FAMGAN:Fine grained AUs Modulation based Generative Adversarial Network for Micro Expression Generation
 
 ## FAMGAN
