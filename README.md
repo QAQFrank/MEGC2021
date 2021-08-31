@@ -47,3 +47,5 @@ This part is based on https://github.com/Tencent/Real-SR
 ## Some results
 
 ![image](pics/exp%20female%20casme%20neg.jpg)
+![image](pics/exp%20female%20casme%20sur.jpg)
+![image](pics/exp%20male%20samm%20pos.jpg)
