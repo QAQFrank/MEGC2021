@@ -10,8 +10,7 @@ FAMGAN:Fine grained AUs Modulation based Generative Adversarial Network for Micr
 
 * Python 3
 * PyTorch 0.4.1
-* visdom (optional, only for training with browser visualizer)
-* imageio (optional, only for generating GIF image in testing)
+
 
 ### Train
 
